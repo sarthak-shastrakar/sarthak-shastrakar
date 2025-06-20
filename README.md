@@ -26,6 +26,6 @@
 ```yaml
 💻 Languages: JavaScript, Java, C, HTML, CSS
 🧰 Frameworks & Libraries: React.js, Node.js, Express, Bootstrap, Tailwind
-🗄️ Databases: MongoDB, Firebase
-🧪 Tools: Git, GitHub, VSCode, Postman, Figma, Cloudinary
+🗄️ Databases: MongoDB, MySql
+🧪 Tools: Git, GitHub, VSCode, Postman,Thunderclient, Cloudinary
 
