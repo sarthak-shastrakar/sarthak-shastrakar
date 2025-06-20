@@ -13,7 +13,7 @@
 
 - 🎓 Final Year Computer Engineering Student (Batch 2026)
 - 🔭 Currently working on: `MarketMitra – E-commerce Store with AI Features`
-- 🌱 Learning: Advanced JavaScript, TypeScript, Tailwind CSS
+- 🌱 Learning: Advanced JavaScript, Reactjs, Tailwind CSS
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, Node.js, React.js**
 - 📫 Reach me: **sarthakshastrakar9@gmail.com**
 - 💼 Portfolio: [sarthak-shastrakar.github.io/Portfolio](https://sarthak-shastrakar.github.io/Portfolio)
