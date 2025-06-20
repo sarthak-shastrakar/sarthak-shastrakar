@@ -15,7 +15,7 @@
 - 🔭 Currently working on: `MarketMitra – E-commerce Store with AI Features`
 - 🌱 Learning: Advanced JavaScript, TypeScript, Tailwind CSS
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, Node.js, React.js**
-- 📫 Reach me: **sarthakshastrakar55@gmail.com**
+- 📫 Reach me: **sarthakshastrakar9@gmail.com**
 - 💼 Portfolio: [sarthak-shastrakar.github.io/Portfolio](https://sarthak-shastrakar.github.io/Portfolio)
 - 🧠 Fun fact: I love solving tech problems and building cool UIs
 
