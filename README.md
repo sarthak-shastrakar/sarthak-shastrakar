@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shastrakar</h1>
-<h3 align="center">Final Year CSE Student | Full-Stack Developer | MERN Stack | Passionate about AI & UI/UX</h3>
+<h3 align="center">Final Year CSE Student | Full-Stack Developer | MERN Stack | Java with DSA</h3>
 
 <p align="center">
   <a href="https://github.com/sarthak-shastrakar" target="_blank">
@@ -12,8 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final Year Computer Engineering Student (Batch 2026)
-- 🔭 Currently working on: `MarketMitra – E-commerce Store with AI Features`
-- 🌱 Learning: Advanced JavaScript, Reactjs, Tailwind CSS
+- 🌱 Learning: Advanced JavaScript, Reactjs, Tailwind CSS, Material UI,
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, Node.js, React.js**
 - 📫 Reach me: **sarthakshastrakar9@gmail.com**
 - 💼 Portfolio: [sarthak-shastrakar.github.io/Portfolio](https://sarthak-shastrakar.github.io/Portfolio)
@@ -24,8 +23,8 @@
 ### 🛠️ Tech Stack
 
 ```yaml
-💻 Languages: JavaScript, Java, C, HTML, CSS
-🧰 Frameworks & Libraries: React.js, Node.js, Express, Bootstrap, Tailwind
+💻 Languages: JavaScript, Java, HTML, CSS.
+🧰 Frameworks & Libraries: React.js, Node.js, Express, Bootstrap, Tailwind CSS,Material UI.
 🗄️ Databases: MongoDB, MySql
-🧪 Tools: Git, GitHub, VSCode, Postman,Thunderclient, Cloudinary
+🧪 Tools: Git, GitHub, VSCode, Postman,Thunderclient, Cloudinary, Render.
 
