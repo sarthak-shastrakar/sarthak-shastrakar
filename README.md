@@ -15,7 +15,7 @@
 - 🌱 Learning: Advanced JavaScript, Reactjs, Tailwind CSS, Material UI,
 - 💬 Ask me about **MERN Stack, APIs, MongoDB, Node.js, React.js**
 - 📫 Reach me: **sarthakshastrakar9@gmail.com**
-- 💼 Portfolio: [sarthak-shastrakar.github.io/Portfolio](https://sarthak-shastrakar.github.io/Portfolio) <a href="https://github.com/sarthak-shastrakar" target="_blank">
+- 💼 Portfolio: [sarthak-shastrakar.github.io/Portfolio](https://sarthak-shastrakar.github.io/Portfolio)
 - 🧠 Fun fact: I love solving tech problems and building cool UIs
 
 ---
