@@ -6,7 +6,7 @@
     <img src="https://komarev.com/ghpvc/?username=sarthak-shastrakar&label=Profile%20Views&color=0f172a&style=flat" />
   </a>
   <a href="mailto:sarthakshastrakar9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-0f172a?style=flat&logo=gmail" />
   </a>
   <a href="https://sarthak-shastrakar.github.io/Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-Visit-0f172a?style=flat&logo=google-chrome" />
@@ -19,9 +19,9 @@
 
 - 🎓 Final Year Computer Engineering Student (Batch 2026)  
 - 💻 Passionate Full-Stack Developer  
-- 🌱 Currently mastering **Advanced JavaScript & Scalable Web Apps**  
-- 🧠 Strong in **Java + DSA (Problem Solving Focused)**  
-- ⚡ Love building clean UI & optimized backend systems  
+- 🌱 Currently mastering **Advanced JavaScript & Scalable Web Applications**  
+- 🧠 Strong in **Java + Data Structures & Algorithms**  
+- ⚡ Focused on building clean UI & optimized backend systems  
 
 ---
 
@@ -44,15 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak-shastrakar&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-shastrakar&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p>
@@ -62,8 +53,14 @@
   <a href="https://github.com/sarthak-shastrakar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="YOUR_NAUKRI_LINK">
+    <img src="https://img.shields.io/badge/Naukri-Profile-0f172a?style=flat" />
+  </a>
 </p>
 
 ---
 
-⭐ *“Code. Build. Improve. Repeat.”*
+⭐ *"Code. Build. Optimize. Repeat."*
