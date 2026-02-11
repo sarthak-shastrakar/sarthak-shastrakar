@@ -54,10 +54,7 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="YOUR_NAUKRI_LINK">
-    <img src="https://img.shields.io/badge/Naukri-Profile-0f172a?style=flat" />
+    <img src="[https://skillicons.dev/icons?i=linkedin](http://www.linkedin.com/in/sarthak-fullstack-developer)" />
   </a>
 </p>
 
