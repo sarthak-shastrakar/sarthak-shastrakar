@@ -53,8 +53,8 @@
   <a href="https://github.com/sarthak-shastrakar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="[https://skillicons.dev/icons?i=linkedin](http://www.linkedin.com/in/sarthak-fullstack-developer)" />
+  <a href="http://www.linkedin.com/in/sarthak-fullstack-developer">
+     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
