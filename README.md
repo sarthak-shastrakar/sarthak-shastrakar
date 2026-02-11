@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak Shastrakar</h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Java & DSA | Final Year CSE (2026)</h3>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Java & DSA | Docker | Final Year CSE (2026)</h3>
 
 <p align="center">
   <a href="https://github.com/sarthak-shastrakar">
@@ -53,8 +53,8 @@
   <a href="https://github.com/sarthak-shastrakar">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="[https://skillicons.dev/icons?i=linkedin](http://www.linkedin.com/in/sarthak-fullstack-developer)" />
+  <a href="http://www.linkedin.com/in/sarthak-fullstack-developer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
 
