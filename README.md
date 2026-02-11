@@ -20,7 +20,7 @@
 - 🎓 Final Year Computer Engineering Student (Batch 2026)  
 - 💻 Passionate Full-Stack Developer  
 - 🌱 Currently mastering **Advanced JavaScript & Scalable Web Applications**  
-- 🧠 Strong in **Java + Data Structures & Algorithms**  
+- 🧠 **Java + Data Structures & Algorithms**  
 - ⚡ Focused on building clean UI & optimized backend systems  
 
 ---
